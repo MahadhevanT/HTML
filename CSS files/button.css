@@ -1,0 +1,81 @@
+.new-button{
+    font-family: Arial;
+    font-size: 20px;
+    color: chocolate;
+    text-align: center;
+    margin-bottom: 0;
+}
+.pro-button{
+    font-family: Arial;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.for-button{
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.from-button{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+.buy-button{
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    height: 25px;
+    width: 70px;
+    font-size: 15px;
+    margin-left: 730px;
+}
+.no-button{
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+}
+.u{
+    font-size: 15px;
+    color: darkgrey;
+}
+.c{
+    color: forestgreen;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.A{
+    color:  darkgrey;
+    margin-top: 0;
+}
+.r{
+    color: red;
+}
+.freecode{
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.free{
+    color: darkgrey;
+}
+.as{
+    font-family: Arial;
+    margin-top: 5px;
+    width: 500px;
+}
+.here{
+    font-family: Arial;
+}
+.chp{
+    color: rgb(0, 174, 255);
+}
